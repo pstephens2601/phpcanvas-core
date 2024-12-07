@@ -1,6 +1,8 @@
 {
   "name": "phpcanvas/phpcanvas-core",
   "description": "This package includes all of the core files for PHPCanvas.",
+  "type": "library",
+  "license": "MIT",
   "require": {
     "php": ">=7.0"
   }
