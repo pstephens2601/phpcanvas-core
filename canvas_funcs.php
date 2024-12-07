@@ -249,7 +249,7 @@
 	{
 		if (ENVIRONMENT == 'development' && ENABLE_CRITIQUES == true)
 		{
-			require_once('libs/templates/canvas_panel.php');
+			require_once('libs/phpcanvas-core/templates/canvas_panel.php');
 		}
 	}
 

@@ -1,6 +1,6 @@
 {
-  "name": "phpcanvas/core",
-  "description": "A short description of what your package does",
+  "name": "phpcanvas/phpcanvas-core",
+  "description": "This package includes all of the core files for PHPCanvas.",
   "require": {
     "php": ">=7.0"
   }
